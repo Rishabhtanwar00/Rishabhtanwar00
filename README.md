@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on React and Nextjs<br>I'm currently learning Full stack development with MERN stack<br>
+I'm currently working on React and Nextjs<br>I'm learning Full stack development with MERN stack<br>
 
 
 ## 🌐 Socials:
